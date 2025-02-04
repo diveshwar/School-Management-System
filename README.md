@@ -15,6 +15,14 @@ Python: Core programming language
 Tkinter: GUI development
 MySQL: Database for storing records
 
+Installation
+Clone this repository:
+git clone https://github.com/your-username/school-management-system.git
 
+Install required dependencies:
+pip install mysql-connector-python
+
+Run the application:
+python StartingFile.py
 
 
